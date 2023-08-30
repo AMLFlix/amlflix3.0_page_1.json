@@ -1,4 +1,4 @@
-{"dates":{"maximum":"2023-08-28","minimum":"2023-07-11"},"page":1,"results":[
+[
   {
     "backdrop_path": "https://image.tmdb.org/t/p/w500/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
     "Released": "2022-12-14",
@@ -167,6 +167,6 @@
     "Overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
     "id": "976573.0",
     "page": "1",
-    "key": "-Nd3uHi17DZagevtLfBM"
+    "key": "last"
   }
-],"total_pages":1,"total_results":5}
+]
