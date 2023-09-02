@@ -1,5 +1,75 @@
 [
   {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/3anFHE61FSSPGTXHo5dxG6yV83u.jpg",
+    "Released": "2023-07-28",
+    "Poster": "https://image.tmdb.org/t/p/w500/edHRoFYs4Qg80MfOM6DrCzK0KVp.jpg",
+    "Title": "One Friday Night",
+    "Overview": "Ram Varma, a married man, is having an affair with a younger woman, Nirosha. One night when Ram meets with a life-altering accident, Nirosha is forced to contact Ram\u0027s wife, Dr. Lata. How will Lata react after discovering her husband\u0027s infidelity?",
+    "id": "1156337.0",
+    "page": "1",
+    "key": "-NdIOGn-njUTSmCbzdVw"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/bEripWKGlZAr8ruqPFDtIu2Vs07.jpg",
+    "Released": "2023-06-02",
+    "Poster": "https://image.tmdb.org/t/p/w500/tDeZERQL4RRs4mVmYigEBMebfpz.jpg",
+    "Title": "Medal",
+    "Overview": "Rajvir Singh, a young athlete, dreams of winning a gold medal, but tragedies always prevent him from achieving his goal. After losing his hearing due to an accident, he gets admission to an athlete academy where he betrays by angad.",
+    "id": "1135839.0",
+    "page": "1",
+    "key": "-NdIOVc8xxRJAT84sTvh"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/hreuK58lCsyDiB0fi3LppY9IF1E.jpg",
+    "Released": "2023-04-07",
+    "Poster": "https://image.tmdb.org/t/p/w500/rbu0BX7T0QYmt2fByqbU7nnATrB.jpg",
+    "Title": "Racer",
+    "Overview": "Ashwin, A middle-class youngster who is passionate about bikes tries to pursue professional racing against all odds and challenges.",
+    "id": "1106500.0",
+    "page": "1",
+    "key": "-NdIOoohxpJcbBIG3dC6"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/xGcLFNNLBQyEFm01cLZveRr7KKS.jpg",
+    "Released": "2023-08-04",
+    "Poster": "https://image.tmdb.org/t/p/w500/1LE95fVuA14LjnMD0FyjRx6ni7D.jpg",
+    "Title": "Endless Battle",
+    "Overview": "Kin Shing is the leader of a drug syndicate, code-named \"Black Wolf\", while his older brother Kin Chung is a member of the Narcotics Division of the Hong Kong Police Force. At the same time, he is involved in a fight against drug lords and it is this investigation that the elder brother discovers that his younger brother had another identity. The two starte a confrontation between good and evil for their respective goals.",
+    "id": "1158901.0",
+    "page": "1",
+    "key": "-NdIPDcdSK-GwCPDILbS"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/8XdXSbjYaXlhUuqbWdnmLGc0bvb.jpg",
+    "Released": "2023-04-21",
+    "Poster": "https://image.tmdb.org/t/p/w500/lVoJVFyAyEPfxYnbp3Tem5FXipe.jpg",
+    "Title": "Space Wars: Quest for the Deepstar",
+    "Overview": "A father and daughter team of space scavengers race against a band of evil mercenaries to reach a legendary lost freighter called the Deepstar. Along their trek through the universe, they encounter monsters, aliens, robots, and something even worse.",
+    "id": "986210.0",
+    "page": "1",
+    "key": "-NdIPOvcwCHh6dQRejTI"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/bxHOjDlgOYQGlxJTpO69BDkQx6B.jpg",
+    "Released": "2023-07-07",
+    "Poster": "https://image.tmdb.org/t/p/w500/aRWjzNu6HFzT3prCE3OGp4lmMC.jpg",
+    "Title": "Rangabali",
+    "Overview": "Shaurya aka Show, a self-centered \u0026 attention seeking youngster moves from Rajavaram to Vizag, and falls for a brilliant medico student Sahaja at Vizag. While attempting to convince Sahaja’s father, Show faces an unique problem and new revelations about his beloved hometown.",
+    "id": "1137914.0",
+    "page": "1",
+    "key": "-NdIPYyR93yJuGXIGu3y"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/hOhRtFivLvZqzVgSgUhSqfidVXu.jpg",
+    "Released": "2023-05-12",
+    "Poster": "https://image.tmdb.org/t/p/w500/boUwVljEdNJxIqn2gnO4d5BkUHE.jpg",
+    "Title": "Fatafati",
+    "Overview": "Phullora Bhaduri, a tailor from the suburbs with a gifted sense of design, is ridiculed for being on the heavier side. Can she become a fashion influencer despite the odds?",
+    "id": "949024.0",
+    "page": "1",
+    "key": "-NdIPha3197qgpabj78V"
+  },
+  {
     "backdrop_path": "https://image.tmdb.org/t/p/w500/8rpDcsfLJypbO6vREc0547VKqEv.jpg",
     "Released": "2022-12-14",
     "Poster": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
