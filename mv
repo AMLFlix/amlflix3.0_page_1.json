@@ -1,4 +1,24 @@
 [
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+    "Released": "2023-05-31",
+    "Poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+    "Title": "Spider-Man: Across the Spider-Verse",
+    "Overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+    "id": "569094.0",
+    "page": "1",
+    "key": "-NdNRtEM3Y8GaBwsoLhy"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/6bAjogOzrB9xbmIaY3BRpZZgn5Q.jpg",
+    "Released": "2018-08-09",
+    "Poster": "https://image.tmdb.org/t/p/w500/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg",
+    "Title": "The Meg",
+    "Overview": "A deep sea submersible pilot revisits his past fears in the Mariana Trench, and accidentally unleashes the seventy foot ancestor of the Great White Shark believed to be extinct.",
+    "id": "345940.0",
+    "page": "1",
+    "key": "-NdNSRU391NXQNynqqVI"
+  },
 
 {
   "backdrop_path": "https://image.tmdb.org/t/p/w500/2Icjry0xdRSNxrtsBR1F47b9r3u.jpg",
