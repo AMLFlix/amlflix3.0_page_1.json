@@ -1,5 +1,25 @@
 [
   {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/v9L9ydhE5gExur77cLGyaxGNJoN.jpg",
+    "Released": "2023-08-10",
+    "Poster": "https://image.tmdb.org/t/p/w500/pTmMxAHqX4vsIDE6HPPxOR0Q6TN.jpg",
+    "Title": "Jailer",
+    "Overview": "Muthuvel Pandian lives a peaceful life with his family, but a sudden intrusion of unwelcome parties in the lives of his family forces him to turn to a path he had long left behind.",
+    "id": "937020.0",
+    "page": "1",
+    "key": "-NdSg_JH58bVdk0bIFeZ"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/r3UVacRPvsTjeXdOekFzY0B2iDf.jpg",
+    "Released": "2023-07-21",
+    "Poster": "https://image.tmdb.org/t/p/w500/1uNMAlNanIQohAofjyyad2WVCdk.jpg",
+    "Title": "Haunting of the Queen Mary",
+    "Overview": "When photographers Erin and Patrick are brought aboard the ship with their young son Lukas, they unleash a series of events that entwines their family with the ship’s dark past. As the terror unfolds around them they begin to realise there is more to this sumptuous ocean liner than meets the eye: its remarkable legacy masking violent secrets.",
+    "id": "977013.0",
+    "page": "1",
+    "key": "-NdSh08yFX0f9onKdL0E"
+  },
+  {
     "backdrop_path": "https://image.tmdb.org/t/p/w500/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
     "Released": "2023-05-31",
     "Poster": "https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
