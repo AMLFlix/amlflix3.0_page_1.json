@@ -1,5 +1,50 @@
 [
   {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/hcUm9SbLletMbrtu9059pi9oU2T.jpg",
+    "Released": "2023-01-20",
+    "Poster": "https://image.tmdb.org/t/p/w500/yj6QBEx3QMMxfz5AqDtFEgvlfSb.jpg",
+    "Title": "Chhatriwali",
+    "Overview": "Sanya is an unemployed chemistry genius looking for a job. However, she also wants to use her knowledge of chemistry to help young minds move beyond the taboos of sex with the right education.",
+    "cate_id": "#",
+    "id": "897515.0",
+    "page": "1",
+    "key": "-NgHedSid8q78WcRYU73"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/3a2kfDZT3Fx17mXU2iC15suHrtm.jpg",
+    "Released": "2023-04-07",
+    "Poster": "https://image.tmdb.org/t/p/w500/hv5Vlh6rgHedbuO4hOMgtrdnN28.jpg",
+    "Title": "Gumraah",
+    "Overview": "A murder investigation becomes complicated after the cops discover a pair of lookalike suspects.",
+    "cate_id": "#",
+    "id": "974025.0",
+    "page": "1",
+    "key": "-NgHfWqgycFbdP81jxne"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/t1keSHUqJWRHJ4p3qyn3MVMONSU.jpg",
+    "Released": "2022-11-26",
+    "Poster": "https://image.tmdb.org/t/p/w500/qkWXawttZmBwZH83nU3oogxGbHf.jpg",
+    "Title": "Ranasthali",
+    "Overview": "Basava is a warrior consumed by vengeance, eagerly awaiting his confrontation with his enemy, Badra.",
+    "cate_id": "#",
+    "id": "1140883.0",
+    "page": "1",
+    "key": "-NgHfbGehh5tzQCgWeMA"
+  },
+  {
+    "backdrop_path": "https://image.tmdb.org/t/p/w500/tzRb86FlUcWK10zJhAfxTfJ2lnc.jpg",
+    "Released": "2023-03-30",
+    "Poster": "https://image.tmdb.org/t/p/w500/sWFmBGpjdft904Gg0j5JZUi0wkM.jpg",
+    "Title": "Tulah 6/13",
+    "Overview": "Five teenagers who decided to go on vacation on June 13 before getting preoccupied with their final college assignments. But their beautiful vacation plans turned tense after the car they were driving was involved in a single accident. Gilang, who woke up alone in the car, tried to find his other four friends, but at the same time he received a barrage of terror that terrified him. These terrors made him remember his childhood trauma when he celebrated his birthday which falls on June 13th.",
+    "cate_id": "#",
+    "id": "985402.0",
+    "page": "1",
+    "key": "-NgHfgDUyj7lXzCZA3Fs"
+  },
+
+  {
     "backdrop_path": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbiwrSYy1sav4wUOPBGZBmakmPn.jpg",
     "Released": "2018",
     "Poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbiwrSYy1sav4wUOPBGZBmakmPn.jpg",
